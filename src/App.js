@@ -8,7 +8,8 @@
 // import Accordion from "./BasicProject/accordion";
 // import Menu from "./BasicProject/menu";
 // import Tabs from "./BasicProject/tabs";
-import Slider from "./BasicProject/slider";
+// import Slider from "./BasicProject/slider";
+import LoremIpsum from "./BasicProject/lorem-ipsum";
 import "./App.css";
 
 function App() {
@@ -21,7 +22,8 @@ function App() {
       {/* <Reviews /> */}
       {/* <Menu /> */}
       {/* <Tabs /> */}
-      <Slider />
+      {/* <Slider /> */}
+      <LoremIpsum />
     </div>
   );
 }
