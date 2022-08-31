@@ -9,7 +9,12 @@
 // import Menu from "./BasicProject/menu";
 // import Tabs from "./BasicProject/tabs";
 // import Slider from "./BasicProject/slider";
-import LoremIpsum from "./BasicProject/lorem-ipsum";
+// import LoremIpsum from "./BasicProject/lorem-ipsum";
+// import Axios from "./BasicProject/axios";
+// import Markdown from "./BasicProject/markdown";
+// import RandomPerson from "./BasicProject/randomPerson";
+// import Pagination from "./BasicProject/pagination";
+import SearchGithubUsers from "./searchGithubUsers";
 import "./App.css";
 
 function App() {
@@ -23,7 +28,12 @@ function App() {
       {/* <Menu /> */}
       {/* <Tabs /> */}
       {/* <Slider /> */}
-      <LoremIpsum />
+      {/* <LoremIpsum /> */}
+      {/* <Axios /> */}
+      {/* <Markdown /> */}
+      {/* <RandomPerson /> */}
+      {/* <Pagination /> */}
+      <SearchGithubUsers />
     </div>
   );
 }
